@@ -5,7 +5,13 @@ EM UMA ELEIÇÃO PRESIDENCIAL EXISTEM QUATRO CANDIDATOS. OS VOTOS SÃO INFORMADO
 
 Início
 
-PORTUGOL COMENTARIO FAZER...
+Enquanto Existem voto? Faça
+        Apresentar opções de voto 
+	Ler voto 
+	Exibir opção selecionada
+        Exibir se não selecionou nenhuma das opções apresentadas
+	Exibir quantidades de votos de cada opção apresentada
+ Fim Enquanto    
 
 Fim
 
