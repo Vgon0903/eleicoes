@@ -7,14 +7,15 @@ Início
 
 Enquanto Existem voto? Faça
 
-        Apresentar opções de voto 
+Apresentar opções de voto 
 	
-	Ler voto 
-	Exibir opção selecionada
+Ler voto 
+
+Exibir opção selecionada
 	
-        Exibir se não selecionou nenhuma das opções apresentadas
+Exibir se não selecionou nenhuma das opções apresentadas
 	
-	Exibir quantidades de votos de cada opção apresentada
+Exibir quantidades de votos de cada opção apresentada
 	
  Fim Enquanto    
 
